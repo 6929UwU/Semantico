@@ -1,0 +1,47 @@
+.header{
+    color: rgb(19, 18, 18);
+    width: 100%;
+    height: 50px;
+    font-size: 50px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.contenedor-principal{
+    display: flex;
+}
+.sidebar{
+    color: rgb(0, 0, 0);
+    width: 40%;
+    height: 500px;
+    font-size: 29px;
+    background-color: rgba(127, 255, 212, 0.67);
+    text-align: center;
+    border: 10px solid white;
+}
+.main{
+    color:black;
+    width: 50%;
+    height: 50px;
+    font-size: 30px;
+    background-color: rgb(54, 255, 201);
+    text-align: center;
+    border: 10px solid white;
+    margin-bottom: 40px;
+}
+.article{
+    color:black;
+    width: 100%;
+    height: 80px;
+    font-size: 20px;
+    background-color: rgba(0, 171, 193, 0.515);
+    text-align: center;
+}
+.creado{
+    color:black;
+    width: 100%;
+    height: 50px;
+    font-size: 25px;
+    background-color: rgba(0, 255, 255, 0.521);
+    text-align: center;
+}
